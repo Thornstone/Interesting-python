@@ -25,3 +25,11 @@
   #### 6.第六期：for循环和while循环
    - 小项目：知识手账
    - 文章传送地址：https://mp.weixin.qq.com/s/UxvQF7uXPJbWtKc6bFHq9A
+  
+  #### 7.第七期：bool值
+   - 小项目：美食推荐器
+   - 文章传送地址：https://mp.weixin.qq.com/s/H_VxwTZ5n7m4jxmZisBQBw
+   
+  #### 8.第八期：函数
+   - 小项目：诚实勇敢小游戏
+   - 文章传送地址：https://mp.weixin.qq.com/s/SBQ-naSkzBqMEAGlSd3hUQ
