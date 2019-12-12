@@ -33,3 +33,11 @@
   #### 8.第八期：函数
    - 小项目：诚实勇敢小游戏
    - 文章传送地址：https://mp.weixin.qq.com/s/SBQ-naSkzBqMEAGlSd3hUQ
+   
+  #### 9.第九期：类与对象
+   - 小项目：智能小助手
+   - 文章传送地址：https://mp.weixin.qq.com/s/022_1WN1qQ_lfwgVEdu72A
+   
+  #### 10.第十期：编码与文件读写
+   - 小项目：文档搜索引擎
+   - 文章传送地址：https://mp.weixin.qq.com/s/IvZ2vuDEfjLpqK3V-_DzrQ
